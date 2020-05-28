@@ -1,0 +1,2 @@
+class='btn btn-primary btn-sm' target='_blank'><i class='fa fa-download fa-sm'></i> Descargar</a>
+=CONCATENAR("<a href='", G2, "' ", $L$2, "<a href='", H2, "' ", $L$2, "<a href='", I2, "' ", $L$2, "<a href='", J2, "' ", $L$2, "<a href='", K2, "' ", $L$2)
